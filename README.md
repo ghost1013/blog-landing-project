@@ -24,5 +24,3 @@
 * [Homepage image](https://unsplash.com/photos/MQzSZ5BkjAg)
 * [SingleArticle image](https://unsplash.com/photos/jR4Zf-riEjI)
 
-## Contact
-#### Contact me via e-mail: piotrwrobel.ajiiz@gmail.com
