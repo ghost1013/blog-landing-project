@@ -1,0 +1,16 @@
+.favourite {
+    min-height: 83.6vh;
+}
+
+.favourite__missing {
+    font-size:1.1em;
+    text-align: center;
+    padding-top: 10em;
+
+}
+
+@media screen and (max-width: 500px) {
+    .favourite {
+        min-height: 80vh;
+    }
+}
